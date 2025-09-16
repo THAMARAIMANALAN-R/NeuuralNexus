@@ -1,0 +1,7 @@
+file 'C:/Users/rtham/sih-sample/images/scene3a.jpg'
+duration 2
+file 'C:/Users/rtham/sih-sample/images/scene3b.jpg'
+duration 2
+file 'C:/Users/rtham/sih-sample/images/scene3c.jpg'
+duration 2
+file 'C:/Users/rtham/sih-sample/images/scene3c.jpg'
